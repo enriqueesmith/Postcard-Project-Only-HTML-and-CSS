@@ -1,0 +1,16 @@
+.alignicons{
+   display: flex ;
+   justify-content: space-between;
+}
+.leftheader{
+   display: flex ;
+}
+.container{
+    width: 500px;
+   margin: auto;
+   background-color: white;
+}
+
+body{
+    background-color: black;
+}
